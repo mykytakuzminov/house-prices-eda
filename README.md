@@ -1,13 +1,14 @@
 # 🏠 House Prices EDA
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
-![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-11557C?logo=matplotlib&logoColor=fff)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E8B8B?logo=python&logoColor=fff)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3B6D11?logo=python&logoColor=fff)
+![NumPy](https://img.shields.io/badge/NumPy-185FA5?logo=numpy&logoColor=fff)
+![Pandas](https://img.shields.io/badge/Pandas-533AB7?logo=pandas&logoColor=fff)
+![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-0F6E56?logo=matplotlib&logoColor=fff)
+![Seaborn](https://img.shields.io/badge/Seaborn-3C3489?logo=python&logoColor=fff)
+![Jupyter](https://img.shields.io/badge/Jupyter-993C1D?logo=Jupyter&logoColor=fff)
+![Anaconda](https://img.shields.io/badge/Anaconda-085041?logo=anaconda&logoColor=fff)
 
-Exploratory Data Analysis of the Ames Housing dataset from Kaggle.
+Exploratory Data Analysis of the House Prices Dataset from Kaggle.
 
 ## Overview
 Analysis of 1460 houses and 81 features to understand what factors influence house prices the most.
@@ -19,4 +20,4 @@ Analysis of 1460 houses and 81 features to understand what factors influence hou
 - Two outliers found with 4500+ sqft but unusually low prices
 
 ## Dataset
-[Housing Dataset](https://www.kaggle.com/datasets/lespin/house-prices-dataset)
+[House Prices Dataset](https://www.kaggle.com/datasets/lespin/house-prices-dataset)
